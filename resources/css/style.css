@@ -25,7 +25,7 @@ a {
 }
 
 #footer {
-  background-color: black;
+  background-color: dimgray;
   color: white;
 }
 h1 {
@@ -39,5 +39,8 @@ h2 {
 h3 {
   font-size: 23px;
   font-weight: bold;
+}
 
+p {
+  font-size: 14px;
 }
